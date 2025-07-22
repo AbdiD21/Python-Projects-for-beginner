@@ -3,14 +3,14 @@
 
 This is a beginner-friendly command-line calculator built with Python. It performs basic arithmetic operations such as **addition**, **subtraction**, **multiplication**, and **division**.
 
-## 🚀 Features
+## Features
 
 - Add, subtract, multiply, divide two numbers
 - Input validation and error handling
 - Loop to perform multiple calculations
 - Option to exit anytime by typing `exit`
 
-## 📚 Purpose
+## Purpose
 
 This project is part of my personal journey to learn and practice Python. It helps strengthen my understanding of:
 - Functions
